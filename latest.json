@@ -1,0 +1,11 @@
+{
+  "version": "0.4.6",
+  "notes": "Primera versión firmada de KrownPark: estabilidad, licencias y vinculación móvil.",
+  "pub_date": "2026-10-13T15:51:09.9809639Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXp3VVNoSUZqWWw3R2FWSkZwK2pHVk40SkRYRGRESnh4N1NtL0pQZy9RSVZ0UmdFZkJJSFJrbEhXZmRTdUpVUFg4Qi9NSTNEWnZzSDRtVDNVdk9WMHRIVU1zNzlCdEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0MTI4CWZpbGU6S3Jvd25QYXJrXzAuNC42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNgo0OUN5RCtIYm9CQnQrZXBOQU5TTzZXa1RUVWNNVDROcklGS2VFTnFvMVRkMG94M1JuSXNDQjc1bEEvUmtvTXlGVjJ3bXVtRkdWNG9mN1pRbDFOdHVDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/derek-sander/krownpark-updates/main/KrownPark_0.4.6_x64-setup.exe"
+    }
+  }
+}
