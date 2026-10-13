@@ -1,0 +1,3 @@
+7b3b7b2dbd599633dfca3cf16893fb2102033f342b2bfc87fe9ce9103f55274b  latest.json
+42dd788d7c7e668a966f6eeceea781b2f584bd6b7dbca89e2753b0e9a8bb42cd  KrownPark_0.4.7_x64-setup.exe
+d97399c6f0eadb2a54c6ae8d0b18f839243844b9934b46cd996e211dae646c43  KrownPark_0.4.7_x64-setup.exe.sig
