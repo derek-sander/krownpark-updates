@@ -1,11 +1,11 @@
-{
-    "version":  "0.4.7",
-    "notes":  "KrownPark 0.4.7: estabilidad, vinculación móvil, cola offline y licencias.",
-    "pub_date":  "2026-10-13T22:13:22.3135315Z",
+﻿{
+    "version":  "0.4.8",
+    "notes":  "Corrige pernocte de S/ 0.00 y mejora el editor de tickets compactos.",
+    "pub_date":  "2026-10-14T04:49:31.3141223Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXp3VVNoSUZqWXNKb3Bsd3JXSTk4Q2F6ZTUybGxEMXJQTytrcmRIOUk1ZHBJcm00ZnhOTEV3QkNKdkZ0b2RwMDFFOE9kbkJVRzRwWTUyYktqSGdBamh1MWZiSGpyb1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTI5NTY5CWZpbGU6S3Jvd25QYXJrXzAuNC43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNwpvL2VTOWtSbGZ5OEpEMkgwMmNjakpIZEtlODR2VjlGM00rUytVUU0vdjBlczVBRzQva1M5M3hHTk9MVFFENzVxSDBJT0UzOThYZVJ6UTNWOFhlbFFDZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/derek-sander/krownpark-updates/main/KrownPark_0.4.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXp3VVNoSUZqWWpXeXc5UEk1ajBwNWVhTnYrVzFuNGUyWERGQmI2MU9KK0tvYVdvbGdkUEZ6UjdkWjJjQkp3M1piUnJ5c1VGWW4waXc1d1pVeWkyaXdzWTd4aWZadWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTUzMzQ0CWZpbGU6S3Jvd25QYXJrXzAuNC44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOApOY2s2VW03ajNBVzhVSFV4Y2xUMndsRnE1YjZ5WXFObXRRYm5KR3pBUUxaYVlXcHV6MXNFeEFQcEN0YmMzdStLSVhveDJLcVdOSzZpQUR5NFZBOTRCUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/derek-sander/krownpark-updates/main/KrownPark_0.4.8_x64-setup.exe"
                                          }
                   }
 }
