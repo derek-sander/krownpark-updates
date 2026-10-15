@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.8",
-    "notes":  "Corrige pernocte de S/ 0.00 y mejora el editor de tickets compactos.",
-    "pub_date":  "2026-10-14T04:54:05.8274834Z",
+    "version":  "0.4.9",
+    "notes":  "Modo oscuro, colores de interfaz, apertura obligatoria de caja y códigos de activación válidos por tres horas.",
+    "pub_date":  "2026-10-15T00:15:14.8628964Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXp3VVNoSUZqWWpXeXc5UEk1ajBwNWVhTnYrVzFuNGUyWERGQmI2MU9KK0tvYVdvbGdkUEZ6UjdkWjJjQkp3M1piUnJ5c1VGWW4waXc1d1pVeWkyaXdzWTd4aWZadWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTUzMzQ0CWZpbGU6S3Jvd25QYXJrXzAuNC44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOApOY2s2VW03ajNBVzhVSFV4Y2xUMndsRnE1YjZ5WXFObXRRYm5KR3pBUUxaYVlXcHV6MXNFeEFQcEN0YmMzdStLSVhveDJLcVdOSzZpQUR5NFZBOTRCUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/derek-sander/krownpark-updates/main/KrownPark_0.4.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXp3VVNoSUZqWW1mdG95QnpFQ1ZTRytMK0pLMDFVVklrUC8wQ0o1UlJZTC9oenpZVm9lcnh1a0VJVFl4a3lYNzBzSDZHWklwWE4ydTc2eWtra3MyQzkxYkhLNDBxOVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDIzMjU3CWZpbGU6S3Jvd25QYXJrXzAuNC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOQo5dmoyTUZRb2kxbkY1TkdoUmZWcDhZSVNqL2J5KzhPb0hDTHo0QmQ4Y2JyTmV0N0ZMSnhGQ0lSSjdDZWpCZW1ScXVSbmY2a0Q3blhlc0lOUncxdWtEUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/derek-sander/krownpark-updates/main/KrownPark_0.4.9_x64-setup.exe"
                                          }
                   }
 }
